@@ -413,7 +413,7 @@ form.sign-in-form {
   }
 }
 
-@media (max-width: 420px) {
+@media (max-width: 425px) {
   .container {
     height: 150vh;
   }
